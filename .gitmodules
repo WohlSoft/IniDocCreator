@@ -1,0 +1,3 @@
+[submodule "IniProcessing"]
+	path = IniProcessing
+	url = https://github.com/WohlSoft/IniProcessing.git
